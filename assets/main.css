@@ -1,0 +1,11 @@
+body{
+  background-image: url("../Screenshot 2022-04-29 132829.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  padding-top: 13vh;
+}
+
+Screenshot 2022-05-13 105725.png{
+  display: grid;
+}
